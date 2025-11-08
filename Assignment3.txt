@@ -1,0 +1,8 @@
+Postovana/i,
+
+ovo je adresa sa GitHuba na kojoj mozete videti test_python kod iz Assignmenta3:
+
+https://github.com/Bojan971/Assignment3/blob/main/test_python.py
+
+Srdacan Pozdrav!
+Bojan Djordjevic
